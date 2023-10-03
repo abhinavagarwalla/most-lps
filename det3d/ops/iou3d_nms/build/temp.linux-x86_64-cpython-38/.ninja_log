@@ -1,0 +1,16 @@
+# ninja log v5
+1	2857	1659049647589525238	/home/ubuntu/src/CenterPointSegmentation/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_kernel.o	d8f309c8a07ac65b
+0	17715	1659049662433561259	/home/ubuntu/src/CenterPointSegmentation/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_cpu.o	7edad2f24f8d7117
+0	19537	1659049664257565685	/home/ubuntu/src/CenterPointSegmentation/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms.o	8d07f7a31b8292d4
+0	23638	1659049668353575625	/home/ubuntu/src/CenterPointSegmentation/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_api.o	b52fc22e1e819ca4
+0	2856	1660868051393739958	/home/ubuntu/src/CenterPointModalCenterNuscModalInfo/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_kernel.o	a73e4316322ad066
+0	17473	1660868065997625809	/home/ubuntu/src/CenterPointModalCenterNuscModalInfo/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_cpu.o	30327b83470953bc
+0	19516	1660868068041609832	/home/ubuntu/src/CenterPointModalCenterNuscModalInfo/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms.o	4fb9b646506c9b88
+0	22965	1660868071485582913	/home/ubuntu/src/CenterPointModalCenterNuscModalInfo/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_api.o	4107ad5170cf7a32
+1	13143	1662064090719331697	/home/ec2-user/src/CenterPoint3DSegmentationRefinerModalVegFix/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_kernel.o	99f1569fcd8076f9
+0	21217	1662064098779408587	/home/ec2-user/src/CenterPoint3DSegmentationRefinerModalVegFix/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_cpu.o	485319f7957c5924
+0	21403	1662064098971410364	/home/ec2-user/src/CenterPoint3DSegmentationRefinerModalVegFix/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms.o	aeffe16bb7590104
+1	23571	1662064101135430395	/home/ec2-user/src/CenterPoint3DSegmentationRefinerModalVegFix/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_api.o	a3bd1621ad02e478
+6	12717	1662065813878681396	/home/ec2-user/src/CenterPoint3DSegmentationRefinerModalVegFix/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_cpu.o	485319f7957c5924
+7	12882	1662065814042682794	/home/ec2-user/src/CenterPoint3DSegmentationRefinerModalVegFix/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms.o	aeffe16bb7590104
+7	17745	1662065818902724213	/home/ec2-user/src/CenterPoint3DSegmentationRefinerModalVegFix/det3d/ops/iou3d_nms/build/temp.linux-x86_64-cpython-38/src/iou3d_nms_api.o	a3bd1621ad02e478

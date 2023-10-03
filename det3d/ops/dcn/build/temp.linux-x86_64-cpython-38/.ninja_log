@@ -1,0 +1,4 @@
+# ninja log v5
+1	23036	1659049641213509765	/home/ubuntu/src/CenterPointSegmentation/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda.o	3b0ef6f45b6e888
+0	24291	1659049642473512823	/home/ubuntu/src/CenterPointSegmentation/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda_kernel.o	3bf507016b586da5
+0	22978	1660868035325865557	/home/ubuntu/src/CenterPointModalCenterNuscModalInfo/det3d/ops/dcn/build/temp.linux-x86_64-cpython-38/src/deform_conv_cuda_kernel.o	8610fdf46096ac18

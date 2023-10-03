@@ -1,0 +1,3 @@
+*.pyc
+*.nbc
+__pycache__/
