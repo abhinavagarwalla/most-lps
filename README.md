@@ -14,7 +14,7 @@ Please refer to [NuScenes](https://github.com/tianweiy/CenterPoint/blob/master/d
 
 ## Usage
 
-Generating modal annoations:
+Generating modal annotations:
 - `python tools/create_modal_boxes.py`
 
 Starting the training on NuScenes:
